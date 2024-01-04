@@ -1,0 +1,10 @@
+{
+  "users": [
+    {"id": 1, "name": "Ivan", "age": 31, "phone": 9990000900},
+    {"id": 2, "name": "Van", "age": 20, "phone": 9990000900},
+    {"id": 3, "name": "Bill", "age": 35, "phone": 9990000900},
+    {"id": 4, "name": "Serg", "age": 50, "phone": 9990000900},
+    {"id": 5, "name": "Iosif", "age": 18, "phone": 9990000900},
+    {"id": 6, "name": "Max", "age": 38, "phone": 9990000900}
+  ]
+}
